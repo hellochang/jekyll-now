@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Chang Liu. 
 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Contact me](https://www.linkedin.com/in/hellochang/)
